@@ -67,7 +67,10 @@ fraud-detection/
 
 ## 👤 Author
 
-Your Name - [GitHub](https://github.com/yourusername)
+Your Name - Rudransh Saini
+-GitHub: [@rudransh1103](https://github.com/rudransh1103)
+- LinkedIn: (https://www.linkedin.com/in/rudransh-saini-627636256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: rudransh_saini@icloud.com
 
 ## 📝 License
 
