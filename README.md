@@ -16,7 +16,8 @@ Banks lose $28+ billion annually to credit card fraud. This system uses ML to de
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard Home](screenshots/dashboard.png)
+![Dashboard Home](![Uploading Screenshot 2026-01-17 at 6.35.55 PM.png…]()
+)
 
 ### API Documentation
 ![API Docs](screenshots/api-docs.png)
