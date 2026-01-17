@@ -1,7 +1,7 @@
 # 🔒 Credit Card Fraud Detection System
 
 Machine Learning system for detecting fraudulent credit card transactions in real-time.
-
+> ⚠️ **Note:** Dataset file (`creditcard.csv`) not included due to size. Download from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud).
 ## 🎯 Problem
 
 Banks lose $28+ billion annually to credit card fraud. This system uses ML to detect fraud while minimizing false alarms.
@@ -12,6 +12,17 @@ Banks lose $28+ billion annually to credit card fraud. This system uses ML to de
 - **REST API**: FastAPI with real-time predictions
 - **Dashboard**: Interactive Streamlit interface
 - **Real-time**: Predictions in <100ms
+
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard Home](screenshots/dashboard.png)
+
+### API Documentation
+![API Docs](screenshots/api-docs.png)
+
+### Fraud Detection Result
+![Prediction](screenshots/prediction.png)
 
 ## 🚀 Quick Start
 
